@@ -1,2 +1,0 @@
-model_checkpoint_path: "custom_basic_cnn_idle.ckpt"
-all_model_checkpoint_paths: "custom_basic_cnn_idle.ckpt"
